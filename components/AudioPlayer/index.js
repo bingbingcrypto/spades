@@ -58,7 +58,7 @@ const AudioPlayer = ({ tracks }) => {
     };
   }, [audio]);
   return (
-    <div className="inline-flex items-center bg-white py-1 rounded-lg">
+    <div className="sm:flex-col md:flex-row inline-flex items-center bg-white py-1 rounded-lg">
       <div className="relative top-[-10px] left-[-13px] h-10 w-[85px]">
         <Image src={mixtape} alt={"Guy play stero"} layout={"responsive"} />
       </div>
