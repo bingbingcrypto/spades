@@ -7,10 +7,11 @@ import {
   faTwitter,
   faDiscord,
 } from "@fortawesome/free-brands-svg-icons";
+// import spades from '/images/spades.png';
 
-const myLoader = ({ src, width, quality }) => {
-  return `https://tailwindui.com/img/logos/${src}`;
-};
+// const myLoader = ({ src, width, quality }) => {
+//   return `https://tailwindui.com/img/logos/${src}`;
+// };
 
 function Nav() {
   const [isOpen, setIsOpen] = useState(false);
@@ -22,12 +23,12 @@ function Nav() {
             <div className="items-end">
               <div className="flex-shrink-0">
                 <Image
-                  loader={myLoader}
+                  // loader={myLoader}
                   className="h-8 w-8"
-                  src={"workflow-mark-indigo-500.svg"}
-                  alt="Workflow"
-                  height={30}
-                  width={30}
+                  src={"/images/spades.png"}
+                  alt="Ace of Spades"
+                  height={50}
+                  width={50}
                 />
               </div>
             </div>
