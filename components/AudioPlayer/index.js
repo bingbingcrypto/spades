@@ -68,7 +68,7 @@ const AudioPlayer = ({ tracks }) => {
         </h3>
         <p className="text-xs font-light opacity-50">{artist}</p>
       </div>
-      <div className="px-8 py-15">
+      <div className="pl-[7px] pr-[18px] py-15">
         <FontAwesomeIcon
           onClick={previousTrack}
           className="cursor-pointer px-4 py-2 text-[30px]"
