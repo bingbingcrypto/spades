@@ -29,9 +29,9 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header />
-      <main>{children}</main>
-      <div className="absolute left-5 bottom-10 md:p-5">
-        <AudioPlayer tracks={tracks}/>
+      <main className="">{children}</main>
+      <div className="fixed left-5 bottom-5">
+        <AudioPlayer tracks={tracks} />
       </div>
     </>
   );

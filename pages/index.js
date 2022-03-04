@@ -17,11 +17,7 @@ export default function Home() {
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
       <main className=" bg-im">
-        {/* <Nav /> */}
         <div className="h-screen sm:bg-animephone md:bg-animefull bg-cover bg-center-bottom p-150 opacity-50 -z-10"></div>
-        {/* <div className="absolute left-5 bottom-10 p-5">
-          <AudioPlayer tracks={tracks} />
-        </div> */}
       </main>
     </div>
   );

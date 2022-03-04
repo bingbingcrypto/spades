@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
 import Image from "next/image";
+import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faTelegram,
@@ -22,53 +23,51 @@ function Nav() {
           <div className="flex items-center justify-between h-16">
             <div className="items-end">
               <div className="flex-shrink-0">
-                <Image
-                  // loader={myLoader}
-                  className="h-8 w-8"
-                  src={"/images/spades.png"}
-                  alt="Ace of Spades"
-                  height={50}
-                  width={50}
-                />
+                <Link href="/">
+                  <a>
+                    <Image
+                      // loader={myLoader}
+                      className="h-8 w-8"
+                      src={"/images/spades.png"}
+                      alt="Ace of Spades"
+                      height={50}
+                      width={50}
+                    />
+                  </a>
+                </Link>
               </div>
             </div>
             <div className="flex items-center">
               <div className="hidden md:block">
                 <div className="ml-10 flex items-baseline space-x-4">
-                  <a
-                    href="#"
-                    className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-                  >
-                    Home
-                  </a>
-                  <a
-                    href="#"
-                    className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-                  >
-                    Mint
-                  </a>
-
-                  <a
-                    href="#"
-                    className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-                  >
+                  <Link href="/">
+                    <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+                      Home
+                    </a>
+                  </Link>
+                  <Link href="/Mint">
+                    <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+                      Mint
+                    </a>
+                  </Link>
+                  <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
                     Gallery
                   </a>
                   <a
                     href="#"
-                    className="px-3 py-2 hover:text-white ease-in duration-300  relative top-[9px]"
+                    className="px-3 py-2 hover:bg-[#cec8c8] rounded-md hover:text-white ease-in duration-300  relative top-[9px]"
                   >
                     <FontAwesomeIcon className="h-8 w-8" icon={faTelegram} />
                   </a>
                   <a
                     href="#"
-                    className="px-3 py-2 hover:text-white ease-in duration-300  relative top-[9px]"
+                    className="px-3 py-2 hover:bg-[#cec8c8] rounded-md  hover:text-white ease-in duration-300  relative top-[9px]"
                   >
                     <FontAwesomeIcon className="h-8 w-8" icon={faTwitter} />
                   </a>
                   <a
                     href="#"
-                    className="px-3 py-2 hover:text-white ease-in duration-300  relative top-[9px]"
+                    className="px-3 py-2 hover:bg-[#cec8c8] rounded-md  hover:text-white ease-in duration-300  relative top-[9px]"
                   >
                     <FontAwesomeIcon className="h-8 w-8" icon={faDiscord} />
                   </a>
