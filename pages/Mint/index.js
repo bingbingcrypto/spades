@@ -2,7 +2,7 @@ import Image from "next/image";
 import React, { useEffect, useState } from "react";
 import { faPlus, faMinus } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
+import { ethers } from "ethers";
 // import { ethers } from "ethers";
 // import wagieNFT from "../../utils/wagieNFT.json";
 // import NftCard from "../../components/NftCard";
@@ -10,22 +10,55 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { tokenContractAddress } from "../../utils/constants";
 // import "./mint.css";
 
-// const wagiePrice = 500;
-
-// const wagieJson = {
-//   name: "Jeremias Bloom",
-//   company: "McBurger Hospitality",
-//   jobTitle: "Dishwasher",
-//   profilePic:
-//     "https://wagiedao.s3.ap-southeast-2.amazonaws.com/Jeremias_Bloom.png",
-//   traits: { Hygiene: 9, "Work Ethic": 10, Loyalty: 8, "Industry Skills": 4 },
-//   bonuses: { standardPay: 0, favour: 0 },
-// };
+const ropsten = "0x3";
 
 const Mint = () => {
   const [nftNum, setNftNum] = useState(1);
   const [loading, setLoading] = useState(false);
-  const [mintNumber, setMintNumber] = useState(1);
+  const [currentAccount, setCurrentAccount] = useState(null);
+
+  // not current;y working need to fix this
+  // const checkNetwork = async () => {
+  //   try {
+  //     if (window.ethereum.networkVersion !== ropsten) {
+  //       await window.ethereum.request({
+  //         method: "wallet_switchEthereumChain",
+  //         params: [{ chainId: ropsten }],
+  //       });
+  //     }
+  //   } catch (error) {
+  //     console.log(error);
+  //   }
+  // };
+
+  const connectWalletAction = async (e) => {
+    e.preventDefault();
+    try {
+      const { ethereum } = window;
+      if (!ethereum) {
+        alert("Get MetaMask!");
+        return;
+      }
+      if (ethereum.networkVersion !== ropsten) {
+        await ethereum.request({
+          method: "wallet_switchEthereumChain",
+          params: [{ chainId: ropsten }],
+        });
+      }
+      const accounts = await ethereum.request({
+        method: "eth_requestAccounts",
+      });
+      console.log("accounts", accounts);
+      setCurrentAccount(accounts[0]);
+    } catch (error) {
+      console.log(error);
+    }
+  };
+
+  // useEffect(() => {
+  //   checkNetwork();
+    // checkIfWalletIsConnected();
+  // }, [currentAccount]);
   // const [nft, setNft] = useState({});
 
   // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -162,40 +195,25 @@ const Mint = () => {
               </div>
 
               <div className="text-center">
-                <button className="py-3 px-8 w-100 bg-[#F0FEA9] text-black rounded-md font-bold">
-                  Mint NFTs
-                </button>
+                {currentAccount ? (
+                  <button
+                    onClick={(e) => askContractToMintNft(e)}
+                    className="py-3 px-8 w-100 bg-[#F0FEA9] text-black rounded-md font-bold"
+                  >
+                    Mint
+                  </button>
+                ) : (
+                  <button
+                    onClick={(e) => connectWalletAction(e)}
+                    className="py-3 px-8 w-100 bg-[#F0FEA9] text-black rounded-md font-bold"
+                  >
+                    Connect Wallet
+                  </button>
+                )}
               </div>
             </form>
           </div>
         </div>
-
-        // <div>
-        //   <form
-        //     className="flex flex-col wrap align-around justify-center"
-        //     onSubmit={"askContractToMintNft"}
-        //   >
-        //     <label className="form-item">
-        //       How many NFT's would you like to mint
-        //     </label>
-        //     <select
-        //       className="m-auto mb-2"
-        //       value={mintNumber}
-        //       onChange={updateMintNumber}
-        //     >
-        //       <option value="1">1</option>
-        //       <option value="2">2</option>
-        //       <option value="3">3</option>
-        //       <option value="4">4</option>
-        //       <option value="5">5</option>
-        //     </select>
-        //     <input
-        //       className="m-auto p-5 border-solid border-2 rounded-md"
-        //       type="submit"
-        //       value="Mint NFT"
-        //     />
-        //   </form>
-        // </div>
       );
     }
   };
@@ -216,14 +234,6 @@ const Mint = () => {
         {/* <p>Generative music and art NFT project</p> */}
       </div>
       <div className="flex sm:flex-col-reverse md:flex-row relative justify-around ">
-        {/* <NftCard
-        key={wagieJson.name}
-        name={wagieJson.name}
-        image={wagieJson.profilePic}
-        company={wagieJson.company}
-        jobTitle={wagieJson.jobTitle}
-        skillset={wagieJson.traits}
-      /> */}
         {isLoading()}
         <div className="sm:mx-auto sm:mb-12">
           <div className="max-w-[300px] bg-white shadow-slate-900 shadow-2xl rounded-lg border border-gray-200 dark:bg-gray-800 dark:border-gray-700">
@@ -231,8 +241,6 @@ const Mint = () => {
               className="rounded-md"
               src={"/images/pyrimadhead.jpg"}
               alt="hard at work minting that nft"
-              // layout="fill"
-              // objectFit="contain"
               height={300}
               width={300}
             />

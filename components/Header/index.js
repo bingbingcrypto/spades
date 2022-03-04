@@ -131,22 +131,18 @@ function Nav() {
           leaveTo="opacity-0 scale-95"
         >
           {(ref) => (
-            <div className="bg-[#ffffff9e] md:hidden" id="mobile-menu">
+            <div className="bg-[#ffffffd5] md:hidden" id="mobile-menu">
               <div ref={ref} className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-                <a
-                  href="#"
-                  className="hover:bg-[#cec8c8] text-[#4D4C4B] block px-5 py-5 rounded-md text-base font-medium"
-                >
-                  Home
-                </a>
-
-                <a
-                  href="#"
-                  className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium"
-                >
-                  Mint
-                </a>
-
+                <Link href={"/"}>
+                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] block px-5 py-5 rounded-md text-base font-medium">
+                    Home
+                  </a>
+                </Link>
+                <Link href={"/Mint"}>
+                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium">
+                    Mint
+                  </a>
+                </Link>
                 <a
                   href="#"
                   className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium"
