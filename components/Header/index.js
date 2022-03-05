@@ -55,9 +55,12 @@ function Nav() {
                       Mint
                     </a>
                   </Link>
-                  <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
-                    Gallery
-                  </a>
+
+                  <Link href="/Gallery">
+                    <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+                      Gallery
+                    </a>
+                  </Link>
                   <a
                     href="#"
                     className="px-3 py-2 hover:bg-[#cec8c8] rounded-md hover:text-white ease-in duration-300  relative top-[9px]"
@@ -152,12 +155,11 @@ function Nav() {
                     Mint
                   </a>
                 </Link>
-                <a
-                  href="#"
-                  className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium"
-                >
-                  Gallery
-                </a>
+                <Link href={"/Gallery"}>
+                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium">
+                    Gallery
+                  </a>
+                </Link>
                 <a
                   href="#"
                   className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium"

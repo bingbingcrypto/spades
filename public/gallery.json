@@ -1,0 +1,2667 @@
+{
+  "goldenAzukis": [
+    {
+      "name": "Azuki #11",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/11.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Orange Swept Back",
+        "Clothing": "White Hoodie",
+        "Eyes": "Pensive",
+        "Mouth": "Wheat Straw",
+        "Offhand": "Golden Hook Sword",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #120",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/120.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Ombre Flowy",
+        "Clothing": "Golden Sloth Kigurumi",
+        "Eyes": "Joyful",
+        "Mouth": "Toothpick",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #121",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/121.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Magenta Messy",
+        "Clothing": "Red Hoodie",
+        "Eyes": "Determined",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Shinai",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #239",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/239.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Samurai",
+        "Headgear": "Chef Headband",
+        "Clothing": "Brown Yukata",
+        "Eyes": "Indifferent",
+        "Mouth": "Smoking",
+        "Offhand": "Golden Kanabo",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #246",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/246.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Swept Back",
+        "Clothing": "Hoshi Jacket",
+        "Eyes": "Indifferent",
+        "Mouth": "Closed",
+        "Offhand": "Golden Monk Staff",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #267",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/267.png",
+      "attributes": {
+        "Type": "Red",
+        "Hair": "Silver Bangs",
+        "Face": "Round Blue Sunglasses",
+        "Clothing": "Golden Frog Kigurumi",
+        "Eyes": "Calm",
+        "Mouth": "Closed",
+        "Offhand": "Leather Katana",
+        "Background": "Dark Purple"
+      }
+    },
+    {
+      "name": "Azuki #299",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/299.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Short Spiky",
+        "Headgear": "Cat Headband",
+        "Clothing": "Tank Top",
+        "Eyes": "Glowing",
+        "Mouth": "Face Mask",
+        "Offhand": "Golden Katana",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #305",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/305.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Bob",
+        "Neck": "Golden Headphones",
+        "Clothing": "Tank Top with Jacket",
+        "Eyes": "Joyful",
+        "Mouth": "Scroll",
+        "Offhand": "Floorsweeper",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #329",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/329.png",
+      "attributes": {
+        "Type": "Blue",
+        "Hair": "Silver Swept Back",
+        "Headgear": "Sandogasa",
+        "Face": "Blue Sunglasses",
+        "Neck": "Golden Headphones",
+        "Clothing": "Black Kimono",
+        "Eyes": "Suspicious",
+        "Mouth": "420",
+        "Offhand": "Fan",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #414",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/414.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Pink Pixie",
+        "Headgear": "Full Bandana",
+        "Clothing": "Straw Poncho",
+        "Eyes": "Joyful",
+        "Mouth": "Lipstick",
+        "Offhand": "Golden Floorsweeper",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #447",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/447.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Disheveled",
+        "Headgear": "Straw Hat",
+        "Clothing": "Suikan",
+        "Eyes": "Closed",
+        "Mouth": "Not Bad",
+        "Offhand": "Golden Ticket",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #472",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/472.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Flowy",
+        "Special": "Sakura",
+        "Headgear": "Backwards Cap",
+        "Neck": "Beads",
+        "Clothing": "Tank Top with Jacket",
+        "Eyes": "Relaxed",
+        "Mouth": "Toothpick",
+        "Offhand": "Golden Bat",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #520",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/520.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Powder Blue Disheveled",
+        "Headgear": "Cowboy Hat",
+        "Clothing": "Maroon Yukata",
+        "Eyes": "Careless",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Sheathed Katana",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #598",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/598.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Spiky",
+        "Headgear": "Horns",
+        "Clothing": "Azuki Tech Jacket",
+        "Eyes": "Chill",
+        "Mouth": "Growl",
+        "Offhand": "Golden Zanbato",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #615",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/615.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Disheveled",
+        "Special": "Sakura",
+        "Headgear": "Newsboy Cap",
+        "Face": "Reading Glasses",
+        "Neck": "Golden Headphones",
+        "Clothing": "White Layered Yukata",
+        "Eyes": "Chill",
+        "Mouth": "Smirk",
+        "Offhand": "Floorsweeper",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #619",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/619.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Bob",
+        "Clothing": "Black Qipao",
+        "Eyes": "Calm",
+        "Mouth": "Grass",
+        "Offhand": "Golden Katana",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #681",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/681.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Spiky",
+        "Clothing": "Golden Frog Kigurumi",
+        "Eyes": "Chill",
+        "Mouth": "Growl",
+        "Offhand": "Banner",
+        "Background": "Off White B"
+      }
+    },
+    {
+      "name": "Azuki #683",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/683.png",
+      "attributes": {
+        "Type": "Blue",
+        "Hair": "Gray Samurai",
+        "Clothing": "Red Hoodie",
+        "Eyes": "Careless",
+        "Mouth": "Whistling",
+        "Offhand": "Golden Zanbato",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #727",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/727.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Hairband",
+        "Neck": "Zen Headphones",
+        "Clothing": "Turquoise Kimono with Bow",
+        "Eyes": "Amethyst",
+        "Mouth": "Laughing",
+        "Offhand": "Golden Floorsweeper",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #743",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/743.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Orange Pixie",
+        "Clothing": "White Hoodie",
+        "Eyes": "Red",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Bean",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #746",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/746.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Pigtails",
+        "Headgear": "Yellow Kanzashi",
+        "Clothing": "Light Kimono",
+        "Eyes": "Ruby",
+        "Mouth": "Whistling",
+        "Offhand": "Golden Guitar",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #748",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/748.png",
+      "attributes": {
+        "Type": "Blue",
+        "Hair": "Silver Disheveled",
+        "Clothing": "Black Yukata",
+        "Eyes": "Closed",
+        "Mouth": "Whistling",
+        "Offhand": "Golden Shuriken",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #753",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/753.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Goddess",
+        "Special": "Fireflies",
+        "Clothing": "White Qipao with Fur",
+        "Eyes": "Daydreaming",
+        "Mouth": "Lipstick",
+        "Offhand": "Golden Zanbato",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #777",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/777.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Bob",
+        "Clothing": "Golden Red Panda Kigurumi",
+        "Eyes": "Joyful",
+        "Mouth": "Closed",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #780",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/780.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Samurai",
+        "Clothing": "Sloth Yukata",
+        "Eyes": "Pensive",
+        "Mouth": "Wheat Straw",
+        "Offhand": "Golden Umbrella",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #806",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/806.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Bun",
+        "Headgear": "IKZ Baseball Cap",
+        "Clothing": "Yellow Bikini",
+        "Eyes": "Closed",
+        "Mouth": "Smoking",
+        "Offhand": "Golden Fan",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #829",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/829.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Teal Bun",
+        "Headgear": "Beret",
+        "Face": "Bandaid",
+        "Clothing": "Blue Qipao",
+        "Eyes": "Pierced Eyebrow",
+        "Mouth": "Laughing",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #847",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/847.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Powder Blue Swept Back",
+        "Clothing": "Golden Red Panda Kigurumi",
+        "Eyes": "Pensive",
+        "Mouth": "Pout",
+        "Offhand": "Zanbato",
+        "Background": "Off White B"
+      }
+    },
+    {
+      "name": "Azuki #930",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/930.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Bun",
+        "Face": "Ji Eyeband",
+        "Clothing": "Light Kimono",
+        "Eyes": "Closed",
+        "Mouth": "Frown",
+        "Offhand": "Golden Zanbato",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1046",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1046.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Long",
+        "Clothing": "Black Tech Jacket",
+        "Eyes": "Determined",
+        "Mouth": "Pout",
+        "Offhand": "Golden Katana",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1073",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1073.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Samurai",
+        "Clothing": "Black Tech Jacket",
+        "Eyes": "Suspicious",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Shinai",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1074",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1074.png",
+      "attributes": {
+        "Type": "Blue",
+        "Hair": "Silver Swept Back",
+        "Special": "Fireflies",
+        "Neck": "Towel",
+        "Clothing": "Suikan",
+        "Eyes": "Careless",
+        "Mouth": "Smoking",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #1102",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1102.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Purple Pigtails",
+        "Clothing": "Turquoise Kimono with Bow",
+        "Eyes": "Pierced Eyebrow",
+        "Mouth": "Bubble Gum",
+        "Offhand": "Golden Umbrella",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #1105",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1105.png",
+      "attributes": {
+        "Type": "Blue",
+        "Hair": "Silver Ponytail",
+        "Face": "Heart Eye Patch",
+        "Neck": "Sneakers",
+        "Clothing": "Hawaiian Shirt",
+        "Eyes": "Closed",
+        "Mouth": "Closed",
+        "Offhand": "Golden Boombox",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1108",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1108.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Samurai",
+        "Clothing": "Golden Sloth Kigurumi",
+        "Eyes": "Curious",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Monk Staff",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #1116",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1116.png",
+      "attributes": {
+        "Type": "Blue",
+        "Hair": "Silver Flowy",
+        "Clothing": "Vegan Mink Coat",
+        "Eyes": "Calm",
+        "Mouth": "Whistling",
+        "Offhand": "Golden Ticket",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1121",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1121.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Violet Flowy",
+        "Headgear": "Black Bucket Hat",
+        "Clothing": "Azuki Tech Jacket",
+        "Eyes": "Glowing",
+        "Mouth": "Chewing",
+        "Offhand": "Golden Ticket",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1147",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1147.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Pigtails",
+        "Headgear": "Cat Baseball Cap",
+        "Clothing": "Alpine Jacket",
+        "Eyes": "Concerned",
+        "Mouth": "Face Mask",
+        "Offhand": "Golden Shuriken",
+        "Background": "Off White A"
+      }
+    },
+    {
+      "name": "Azuki #1148",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1148.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Bob",
+        "Clothing": "Black Hoodie",
+        "Eyes": "Joyful",
+        "Mouth": "Grin",
+        "Offhand": "Golden Boombox",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #1191",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1191.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Dreadlocks",
+        "Face": "Bandaid",
+        "Neck": "Towel",
+        "Clothing": "Kung Fu Shirt",
+        "Eyes": "Chill",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1222",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1222.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Pixie",
+        "Headgear": "Horns",
+        "Clothing": "Tank Top with Jacket",
+        "Eyes": "Glowing",
+        "Mouth": "Grass",
+        "Offhand": "Golden Kanabo",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #1235",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1235.png",
+      "attributes": {
+        "Type": "Blue",
+        "Hair": "Silver Short Spiky",
+        "Special": "Fox Fire",
+        "Neck": "Towel",
+        "Clothing": "Cat Yukata",
+        "Eyes": "Closed",
+        "Mouth": "Meh",
+        "Offhand": "Golden Sheathed Katana",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #1256",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1256.png",
+      "attributes": {
+        "Type": "Red",
+        "Hair": "Buzzcut",
+        "Face": "Eye Scar",
+        "Neck": "Golden Headphones",
+        "Clothing": "Brown Yukata",
+        "Eyes": "Determined",
+        "Mouth": "Wheat Straw",
+        "Offhand": "Banner",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #1468",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1468.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Blonde Flowy",
+        "Special": "Fireflies",
+        "Ear": "Red Tassel",
+        "Face": "Round Purple Sunglasses",
+        "Clothing": "White Qipao with Fur",
+        "Eyes": "Red",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Monkey King Staff",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #1471",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1471.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Messy",
+        "Special": "Smoke",
+        "Headgear": "Straw Hat",
+        "Face": "Round Blue Sunglasses",
+        "Clothing": "Hoodie with Bag",
+        "Eyes": "Curious",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Guitar",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #1506",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1506.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Powder Blue Disheveled",
+        "Neck": "Golden Headphones",
+        "Clothing": "White Yukata",
+        "Eyes": "Closed",
+        "Mouth": "Meh",
+        "Offhand": "Bean Juice",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1523",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1523.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Spiky",
+        "Ear": "Dragon",
+        "Clothing": "Black Blazer",
+        "Neck": "Chain",
+        "Eyes": "Pensive",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Fan",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1578",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1578.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Teal Bob",
+        "Clothing": "Golden Sloth Kigurumi",
+        "Eyes": "Closed",
+        "Mouth": "Smirk",
+        "Offhand": "Floorsweeper",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1609",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1609.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Flowy",
+        "Ear": "Red Tassel",
+        "Clothing": "Black Bomber",
+        "Eyes": "Relaxed",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Ticket",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #1636",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1636.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Pixie",
+        "Headgear": "Azuki Cap",
+        "Neck": "Zen Headphones",
+        "Clothing": "Black Bomber",
+        "Eyes": "Determined",
+        "Mouth": "Face Mask",
+        "Offhand": "Golden Monk Staff",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1637",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1637.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Teal Bangs",
+        "Headgear": "Newsboy Cap",
+        "Face": "Round Blue Sunglasses",
+        "Clothing": "Blue Kimono with Bow",
+        "Eyes": "Pierced Eyebrow",
+        "Mouth": "Laughing",
+        "Offhand": "Golden Bat",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #1638",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1638.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Bob",
+        "Headgear": "Red Panda Baseball Cap",
+        "Face": "Bandaid",
+        "Clothing": "Red Panda Hoodie",
+        "Eyes": "Determined",
+        "Mouth": "Grass",
+        "Offhand": "Golden Kanabo",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1667",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1667.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Goddess",
+        "Clothing": "Blue Floral Kimono",
+        "Eyes": "Striking",
+        "Mouth": "Closed",
+        "Offhand": "Golden Ticket",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #1670",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1670.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Fluffy",
+        "Face": "Black Glasses",
+        "Clothing": "Tank Top",
+        "Eyes": "Pensive",
+        "Mouth": "Wheat Straw",
+        "Offhand": "Golden Umbrella",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #1693",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1693.png",
+      "attributes": {
+        "Type": "Red",
+        "Hair": "Silver Bob",
+        "Face": "Red Stripes Face Paint",
+        "Clothing": "Golden Red Panda Kigurumi",
+        "Eyes": "Daydreaming",
+        "Mouth": "Smirk",
+        "Offhand": "Golden Fan",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #1725",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1725.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Buzzcut",
+        "Face": "Seer Eyeband",
+        "Clothing": "Light Kimono",
+        "Eyes": "Closed",
+        "Mouth": "Smoking",
+        "Offhand": "Golden Ticket",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1761",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1761.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Swept Back",
+        "Headgear": "IKZ Baseball Cap",
+        "Clothing": "Red Perfecto Jacket",
+        "Eyes": "Curious",
+        "Mouth": "Smoking",
+        "Offhand": "Golden Bean",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1770",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1770.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Pigtails",
+        "Headgear": "Yellow Kanzashi",
+        "Ear": "Wireless Earbuds",
+        "Clothing": "Fur Hoodie",
+        "Eyes": "Red",
+        "Mouth": "420",
+        "Offhand": "Golden Monk Staff",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1781",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1781.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Teal Bob",
+        "Clothing": "Blue Bikini",
+        "Eyes": "Amethyst",
+        "Mouth": "Frown",
+        "Offhand": "Golden Monkey King Staff",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #1790",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1790.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Short Spiky",
+        "Ear": "Ethereum",
+        "Clothing": "Azuki Tech Jacket",
+        "Eyes": "Suspicious",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Skateboard",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #1836",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1836.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Fluffy",
+        "Clothing": "Sloth T-Shirt",
+        "Eyes": "White",
+        "Mouth": "Pout",
+        "Offhand": "Golden Bean",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #1960",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/1960.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Teal Long",
+        "Headgear": "Beret",
+        "Ear": "Sakura",
+        "Clothing": "Kung Fu Shirt",
+        "Eyes": "Closed",
+        "Mouth": "Growl",
+        "Offhand": "Golden Kanabo",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #2000",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2000.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Bun",
+        "Ear": "Red Bean",
+        "Face": "Black Glasses",
+        "Clothing": "Red Perfecto Jacket",
+        "Eyes": "Concerned",
+        "Mouth": "Frown",
+        "Offhand": "Golden Kanabo",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2036",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2036.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Messy",
+        "Special": "Smoke",
+        "Face": "Round Blue Sunglasses",
+        "Clothing": "Kimono with Straw Hat",
+        "Eyes": "Focused",
+        "Mouth": "Smirk",
+        "Offhand": "Golden Shinai",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2043",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2043.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Disheveled",
+        "Headgear": "Azuki Cap",
+        "Face": "Eye Scar",
+        "Clothing": "Vest",
+        "Eyes": "Determined",
+        "Mouth": "Meh",
+        "Offhand": "Golden Boombox",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #2062",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2062.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Short Spiky",
+        "Special": "Fireflies",
+        "Neck": "Towel",
+        "Clothing": "Dress Shirt",
+        "Eyes": "Closed",
+        "Mouth": "Pout",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #2076",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2076.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Braids",
+        "Clothing": "Red Kimono",
+        "Neck": "Chain",
+        "Eyes": "Lightning",
+        "Mouth": "Tactical Knife",
+        "Offhand": "Golden Bat",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #2108",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2108.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Fluffy",
+        "Headgear": "Full Bandana",
+        "Ear": "Chiyogami",
+        "Clothing": "Azuki Track Jacket",
+        "Eyes": "Indifferent",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Sheathed Katana",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2142",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2142.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Long Dreadlocks",
+        "Headgear": "Full Bandana",
+        "Clothing": "White Hoodie",
+        "Eyes": "Pierced Eyebrow",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Katana",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #2145",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2145.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Ponytail",
+        "Special": "Fireflies",
+        "Face": "Round Blue Sunglasses",
+        "Neck": "Contract Tattoo",
+        "Clothing": "White Qipao with Fur",
+        "Eyes": "Striking",
+        "Mouth": "Lipstick",
+        "Offhand": "Golden Shuriken",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #2167",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2167.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Bun",
+        "Clothing": "Golden Cat Kigurumi",
+        "Eyes": "Lightning",
+        "Mouth": "Tactical Knife",
+        "Offhand": "Banner",
+        "Background": "Off White A"
+      }
+    },
+    {
+      "name": "Azuki #2168",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2168.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Long",
+        "Special": "Butterfly",
+        "Face": "Lipstick Kiss",
+        "Clothing": "Kung Fu Shirt",
+        "Eyes": "Chill",
+        "Mouth": "Meh",
+        "Offhand": "Golden Floorsweeper",
+        "Background": "Dark Purple"
+      }
+    },
+    {
+      "name": "Azuki #2170",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2170.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Samurai",
+        "Headgear": "Cowboy Hat",
+        "Face": "Blue Sunglasses",
+        "Clothing": "Blue Bomber",
+        "Eyes": "Pensive",
+        "Mouth": "Pout",
+        "Offhand": "Golden Bean",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2245",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2245.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Swept Back",
+        "Headgear": "IKZ Baseball Cap",
+        "Ear": "Blue Fan",
+        "Face": "Eye Scar",
+        "Clothing": "Black Hoodie",
+        "Eyes": "Glowing",
+        "Mouth": "Gaiter",
+        "Offhand": "Golden Monkey King Staff",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #2246",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2246.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Violet Flowy",
+        "Clothing": "Turquoise Kimono with Bow",
+        "Eyes": "Pierced Eyebrow",
+        "Mouth": "Laughing",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2247",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2247.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Pink Hairband",
+        "Neck": "Contract Tattoo",
+        "Clothing": "Frog Kimono",
+        "Eyes": "Striking",
+        "Mouth": "Tongue Out",
+        "Offhand": "Golden Floorsweeper",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2328",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2328.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Magenta Flowy",
+        "Clothing": "Archer",
+        "Eyes": "Determined",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Fan",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2330",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2330.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Purple Bun",
+        "Ear": "Ear Cuffs",
+        "Face": "Seer Eyeband",
+        "Clothing": "Black Oversized Kimono",
+        "Eyes": "Closed",
+        "Mouth": "Chewing",
+        "Offhand": "Golden Floorsweeper",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2378",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2378.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Powder Blue Swept Back",
+        "Face": "Clear Glasses",
+        "Neck": "Contract Tattoo",
+        "Clothing": "Maroon Yukata",
+        "Eyes": "Pensive",
+        "Mouth": "Grass",
+        "Offhand": "Golden Umbrella",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2445",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2445.png",
+      "attributes": {
+        "Type": "Red",
+        "Hair": "Silver Short Spiky",
+        "Special": "Fireflies",
+        "Headgear": "Horns",
+        "Clothing": "Bloody Bomber",
+        "Eyes": "Glowing",
+        "Mouth": "420",
+        "Offhand": "Golden Kanabo",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #2485",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2485.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Flowy",
+        "Clothing": "Lavender Kimono with Bow",
+        "Eyes": "Daydreaming",
+        "Mouth": "Smoking",
+        "Offhand": "Golden Monkey King Staff",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2540",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2540.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Gray Samurai",
+        "Ear": "Chiyogami",
+        "Clothing": "Maroon Yukata",
+        "Eyes": "Suspicious",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Zanbato",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2554",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2554.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Fluffy",
+        "Headgear": "Ayaigasa",
+        "Clothing": "Rain Jacket",
+        "Eyes": "Closed",
+        "Mouth": "Not Bad",
+        "Offhand": "Golden Skateboard",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #2560",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2560.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Spiky",
+        "Ear": "Spiked Ring",
+        "Neck": "Tribal Tattoo",
+        "Clothing": "Suit with Turtleneck",
+        "Eyes": "Pensive",
+        "Mouth": "Meh",
+        "Offhand": "Golden Fan",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2575",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2575.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Magenta Long",
+        "Face": "Eye Patch",
+        "Clothing": "White Blazer",
+        "Eyes": "Closed",
+        "Mouth": "Growl",
+        "Offhand": "Golden Sheathed Katana",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #2577",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2577.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Long",
+        "Clothing": "Cat T-Shirt",
+        "Eyes": "Suspicious",
+        "Mouth": "Grass",
+        "Offhand": "Golden Umbrella",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #2682",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2682.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Purple Bun",
+        "Ear": "Sakura",
+        "Neck": "Red Panda Headphones",
+        "Clothing": "Lavender Kimono with Bow",
+        "Eyes": "Ruby",
+        "Mouth": "Laughing",
+        "Offhand": "Golden Monk Staff",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2683",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2683.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Swept Back",
+        "Headgear": "Red Panda Baseball Cap",
+        "Ear": "Sword",
+        "Clothing": "Black Blazer",
+        "Neck": "Chain",
+        "Eyes": "Suspicious",
+        "Mouth": "Closed",
+        "Offhand": "Golden Monk Staff",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #2704",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2704.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Ponytail",
+        "Neck": "Golden Headphones",
+        "Clothing": "Turquoise Kimono",
+        "Eyes": "Relaxed",
+        "Mouth": "Tactical Knife",
+        "Offhand": "Leather Katana",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2747",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2747.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Orange Samurai",
+        "Special": "Lightning",
+        "Clothing": "Black Hoodie",
+        "Eyes": "Bored",
+        "Mouth": "Face Mask",
+        "Offhand": "Golden Katana",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #2817",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2817.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Disheveled",
+        "Face": "Red Fang Face Paint",
+        "Neck": "Golden Headphones",
+        "Clothing": "Red Panda T-Shirt",
+        "Eyes": "Careless",
+        "Mouth": "Grass",
+        "Offhand": "Umbrella",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2850",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2850.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Ombre Bangs",
+        "Headgear": "Purple Kanzashi",
+        "Face": "Lipstick Kiss",
+        "Neck": "Golden Headphones",
+        "Clothing": "Archer",
+        "Eyes": "Relaxed",
+        "Mouth": "Closed",
+        "Offhand": "Lantern",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #2869",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2869.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Teal Hairband",
+        "Headgear": "Backwards Cap",
+        "Neck": "Golden Headphones",
+        "Clothing": "Cloud Poncho",
+        "Eyes": "Amethyst",
+        "Mouth": "Tongue Out",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2882",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2882.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Teal Hairband",
+        "Headgear": "Black Bucket Hat",
+        "Ear": "Corded Earbuds",
+        "Clothing": "Red Panda Hoodie",
+        "Eyes": "Striking",
+        "Mouth": "Grass",
+        "Offhand": "Golden Skateboard",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #2899",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2899.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Long",
+        "Headgear": "Azuki Cap",
+        "Clothing": "Hoodie with Bag",
+        "Eyes": "Suspicious",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Bean",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #2914",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2914.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Flowy",
+        "Headgear": "Backwards Cap",
+        "Face": "Reading Glasses",
+        "Clothing": "Blue Bikini",
+        "Eyes": "Determined",
+        "Mouth": "Face Mask",
+        "Offhand": "Golden Monkey King Staff",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #2951",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/2951.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Bob",
+        "Headgear": "Newsboy Cap",
+        "Clothing": "Archer",
+        "Eyes": "Calm",
+        "Mouth": "Gaiter",
+        "Offhand": "Golden Shinai",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3018",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3018.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Purple Bun",
+        "Clothing": "Black Tech Jacket",
+        "Eyes": "Hopeful",
+        "Mouth": "Tongue Out",
+        "Offhand": "Golden Floorsweeper",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #3054",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3054.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Disheveled",
+        "Ear": "Blue Fan",
+        "Face": "Kabuki Facepaint",
+        "Neck": "Golden Headphones",
+        "Clothing": "Maroon Yukata",
+        "Eyes": "Suspicious",
+        "Mouth": "Closed",
+        "Offhand": "Hand Seal",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #3057",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3057.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Half Bun",
+        "Face": "Blush",
+        "Clothing": "White Hoodie",
+        "Eyes": "Daydreaming",
+        "Mouth": "Tongue Out",
+        "Offhand": "Golden Shuriken",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3140",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3140.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Spiky",
+        "Special": "Fireflies",
+        "Clothing": "Yellow Jumpsuit",
+        "Eyes": "White",
+        "Mouth": "Meh",
+        "Offhand": "Golden Fan",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #3153",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3153.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Fluffy",
+        "Headgear": "Cowboy Hat",
+        "Clothing": "Sloth Yukata",
+        "Eyes": "Chill",
+        "Mouth": "Pout",
+        "Offhand": "Golden Bean",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #3180",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3180.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Fluffy",
+        "Face": "Reading Glasses",
+        "Clothing": "White Blazer",
+        "Eyes": "Careless",
+        "Mouth": "Closed",
+        "Offhand": "Golden Guitar",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #3193",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3193.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Disheveled",
+        "Special": "Fox Fire",
+        "Clothing": "Camo Hoodie",
+        "Eyes": "Bored",
+        "Mouth": "Growl",
+        "Offhand": "Golden Monkey King Staff",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #3196",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3196.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Short Spiky",
+        "Ear": "Sakura",
+        "Clothing": "Black Kimono",
+        "Eyes": "Determined",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Ticket",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #3211",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3211.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Swept Back",
+        "Special": "Fireflies",
+        "Headgear": "Cat Baseball Cap",
+        "Ear": "Square Stud",
+        "Clothing": "Suikan",
+        "Eyes": "Tired",
+        "Mouth": "Grass",
+        "Offhand": "Golden Zanbato",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #3291",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3291.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Ponytail",
+        "Face": "Ji Eyeband",
+        "Clothing": "Blue Kimono with Bow",
+        "Eyes": "Closed",
+        "Mouth": "Lipstick",
+        "Offhand": "Golden Sheathed Katana",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #3301",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3301.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Long Dreadlocks",
+        "Headgear": "Full Bandana",
+        "Clothing": "Camo Hoodie",
+        "Eyes": "Relaxed",
+        "Mouth": "Frown",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #3302",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3302.png",
+      "attributes": {
+        "Type": "Red",
+        "Hair": "Magenta Pigtails",
+        "Face": "Seer Eyeband",
+        "Clothing": "Black Tech Jacket",
+        "Eyes": "Closed",
+        "Mouth": "Grin",
+        "Offhand": "Golden Skateboard",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3309",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3309.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Spiky",
+        "Special": "Fireflies",
+        "Headgear": "Black Bucket Hat",
+        "Ear": "Yin Yang",
+        "Face": "Round Blue Sunglasses",
+        "Clothing": "White Yukata",
+        "Eyes": "Chill",
+        "Mouth": "Pout",
+        "Offhand": "Golden Sheathed Katana",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #3350",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3350.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Fluffy",
+        "Neck": "Beads",
+        "Clothing": "Shinto Robe",
+        "Eyes": "Glowing",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Fan",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3424",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3424.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Orange Short Spiky",
+        "Neck": "Golden Headphones",
+        "Clothing": "White T-Shirt",
+        "Eyes": "Suspicious",
+        "Mouth": "Growl",
+        "Offhand": "Sake",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3455",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3455.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Purple Half Bun",
+        "Clothing": "Red Panda Kigurumi",
+        "Eyes": "Amethyst",
+        "Mouth": "Chewing",
+        "Offhand": "Golden Floorsweeper",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #3464",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3464.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Long",
+        "Neck": "Contract Tattoo",
+        "Clothing": "Vegan Mink Coat",
+        "Eyes": "Determined",
+        "Mouth": "Smirk",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3485",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3485.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Ponytail",
+        "Clothing": "Hoshi Jacket",
+        "Eyes": "Hopeful",
+        "Mouth": "Laughing",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3491",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3491.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Long",
+        "Special": "Lightning",
+        "Headgear": "Fur Bucket Hat",
+        "Clothing": "White Layered Yukata",
+        "Eyes": "White",
+        "Mouth": "Meh",
+        "Offhand": "Golden Monk Staff",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #3530",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3530.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Bob",
+        "Headgear": "Yellow Kanzashi",
+        "Neck": "Golden Headphones",
+        "Clothing": "Red Qipao with Fur",
+        "Eyes": "Calm",
+        "Mouth": "Chewing",
+        "Offhand": "Katana",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3537",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3537.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Blonde Long",
+        "Face": "Eye Patch",
+        "Clothing": "Black Blazer",
+        "Neck": "Chain",
+        "Eyes": "Closed",
+        "Mouth": "Closed",
+        "Offhand": "Golden Shinai",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3629",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3629.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Pink Flowy",
+        "Clothing": "Light Kimono",
+        "Eyes": "Pierced Eyebrow",
+        "Mouth": "Face Mask",
+        "Offhand": "Golden Boombox",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #3637",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3637.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Swept Back",
+        "Headgear": "Chef Headband",
+        "Clothing": "Azuki Tech Jacket",
+        "Eyes": "Careless",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Guitar",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3676",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3676.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Pink Hairband",
+        "Headgear": "Straw Hat",
+        "Clothing": "Sloth T-Shirt",
+        "Eyes": "Joyful",
+        "Mouth": "Chewing",
+        "Offhand": "Golden Fan",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #3688",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3688.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Pixie",
+        "Face": "Kabuki Facepaint",
+        "Clothing": "Hoodie",
+        "Neck": "Choker",
+        "Eyes": "Concerned",
+        "Mouth": "Smirk",
+        "Offhand": "Golden Shinai",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #3756",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3756.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Ponytail",
+        "Headgear": "Purple Kanzashi",
+        "Clothing": "Blue Qipao",
+        "Eyes": "Joyful",
+        "Mouth": "Lipstick",
+        "Offhand": "Golden Shinai",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #3874",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3874.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Fluffy",
+        "Neck": "Chill Headphones",
+        "Clothing": "Brown Yukata",
+        "Eyes": "Meditating",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Boombox",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #3889",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3889.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Messy",
+        "Clothing": "Golden Frog Kigurumi",
+        "Eyes": "Tired",
+        "Mouth": "Face Mask",
+        "Offhand": "Katana",
+        "Background": "Off White B"
+      }
+    },
+    {
+      "name": "Azuki #3894",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3894.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Samurai",
+        "Neck": "Sneakers",
+        "Clothing": "Azuki Tech Jacket",
+        "Eyes": "Pensive",
+        "Mouth": "420",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #3945",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3945.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Long",
+        "Clothing": "Golden Red Panda Kigurumi",
+        "Eyes": "Closed",
+        "Mouth": "Closed",
+        "Offhand": "Fishing Rod",
+        "Background": "Off White A"
+      }
+    },
+    {
+      "name": "Azuki #3967",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/3967.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Flowy",
+        "Headgear": "Cat Ears",
+        "Clothing": "Bloody Bomber",
+        "Eyes": "Ruby",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Fan",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #4028",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4028.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Bangs",
+        "Special": "Fox Fire",
+        "Clothing": "Red Ninja Top",
+        "Eyes": "Determined",
+        "Mouth": "Smirk",
+        "Offhand": "Golden Bat",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #4081",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4081.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Messy",
+        "Headgear": "Red Panda Mask",
+        "Clothing": "Black Blazer",
+        "Neck": "Chain",
+        "Eyes": "Tired",
+        "Mouth": "Growl",
+        "Offhand": "Golden Monkey King Staff",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4085",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4085.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Messy",
+        "Ear": "Ear Cuffs",
+        "Neck": "Golden Headphones",
+        "Clothing": "White T-Shirt",
+        "Eyes": "Pensive",
+        "Mouth": "Smoking",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #4086",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4086.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Ponytail",
+        "Clothing": "Tank Top with Jacket",
+        "Eyes": "Joyful",
+        "Mouth": "Lipstick",
+        "Offhand": "Golden Hook Sword",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4096",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4096.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Spiky",
+        "Headgear": "Red Panda Headband",
+        "Ear": "Red Spiked Ring",
+        "Clothing": "Blue Kimono",
+        "Eyes": "Curious",
+        "Mouth": "Whistling",
+        "Offhand": "Golden Hook Sword",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4104",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4104.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Ponytail",
+        "Clothing": "Golden Frog Kigurumi",
+        "Eyes": "Daydreaming",
+        "Mouth": "Smoking",
+        "Offhand": "Bat",
+        "Background": "Off White A"
+      }
+    },
+    {
+      "name": "Azuki #4138",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4138.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Pixie",
+        "Clothing": "Golden Frog Kigurumi",
+        "Eyes": "Concerned",
+        "Mouth": "Grin",
+        "Offhand": "Bean Juice",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4195",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4195.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Pink Hairband",
+        "Neck": "Golden Headphones",
+        "Clothing": "Red Qipao with Fur",
+        "Eyes": "Closed",
+        "Mouth": "Relaxed",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4198",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4198.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Bun",
+        "Headgear": "Beret",
+        "Clothing": "Hoodie",
+        "Neck": "Choker",
+        "Eyes": "Determined",
+        "Mouth": "Surprised",
+        "Offhand": "Golden Skateboard",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4322",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4322.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Magenta Pigtails",
+        "Neck": "Chill Headphones",
+        "Clothing": "Black Ninja Top",
+        "Eyes": "Calm",
+        "Mouth": "Surprised",
+        "Offhand": "Golden Monk Staff",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4328",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4328.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Violet Flowy",
+        "Headgear": "Cowboy Hat",
+        "Clothing": "Turquoise Kimono",
+        "Eyes": "Determined",
+        "Mouth": "Toothpick",
+        "Offhand": "Golden Bean",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #4398",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4398.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Bun",
+        "Face": "Sleep Mask",
+        "Clothing": "Black Hoodie",
+        "Eyes": "Closed",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Floorsweeper",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4435",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4435.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Pink Samurai",
+        "Headgear": "Cowboy Hat",
+        "Neck": "Golden Headphones",
+        "Clothing": "Green Yukata",
+        "Eyes": "Pensive",
+        "Mouth": "Relaxed",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #4478",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4478.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Orange Samurai",
+        "Face": "Red Fang Face Paint",
+        "Clothing": "Golden Frog Kigurumi",
+        "Eyes": "Tired",
+        "Mouth": "Closed",
+        "Offhand": "Boombox",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4505",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4505.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Pigtails",
+        "Neck": "Beads",
+        "Clothing": "Sloth Kimono",
+        "Eyes": "Concerned",
+        "Mouth": "Frown",
+        "Offhand": "Golden Ticket",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4552",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4552.png",
+      "attributes": {
+        "Type": "Red",
+        "Hair": "Fire",
+        "Ear": "Red Spiked Ring",
+        "Neck": "Golden Headphones",
+        "Clothing": "Azuki Sweater",
+        "Eyes": "Glowing",
+        "Mouth": "Toothpick",
+        "Offhand": "Golden Guitar",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4564",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4564.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Teal Bangs",
+        "Neck": "Golden Headphones",
+        "Clothing": "Turquoise Kimono with Bow",
+        "Eyes": "Ruby",
+        "Mouth": "Smoking",
+        "Offhand": "Sakura Katana",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #4569",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4569.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Half Bun",
+        "Clothing": "Vegan Mink Coat",
+        "Eyes": "Concerned",
+        "Mouth": "Tactical Knife",
+        "Offhand": "Golden Monk Staff",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #4614",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4614.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Orange Short Spiky",
+        "Neck": "Golden Headphones",
+        "Clothing": "Maroon Yukata",
+        "Eyes": "Pensive",
+        "Mouth": "Smirk",
+        "Offhand": "Bat",
+        "Background": "Dark Purple"
+      }
+    },
+    {
+      "name": "Azuki #4666",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4666.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Ponytail",
+        "Special": "Fireflies",
+        "Neck": "Golden Headphones",
+        "Clothing": "White Qipao with Fur",
+        "Eyes": "Striking",
+        "Mouth": "Grin",
+        "Offhand": "Golden Umbrella",
+        "Background": "Dark Purple"
+      }
+    },
+    {
+      "name": "Azuki #4667",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4667.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Long",
+        "Headgear": "Distressed Beanie",
+        "Face": "Round Blue Sunglasses",
+        "Clothing": "White Blazer",
+        "Eyes": "Focused",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Bat",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4684",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4684.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Spiky",
+        "Clothing": "Black Yukata",
+        "Eyes": "Determined",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Sheathed Katana",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #4690",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4690.png",
+      "attributes": {
+        "Type": "Blue",
+        "Hair": "Fire",
+        "Neck": "Golden Headphones",
+        "Clothing": "Blue Kimono",
+        "Eyes": "Fire",
+        "Mouth": "Tactical Knife",
+        "Offhand": "Fireball",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #4717",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4717.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Bangs",
+        "Headgear": "Beret",
+        "Clothing": "Bumblebee Jacket",
+        "Eyes": "Joyful",
+        "Mouth": "Smoking",
+        "Offhand": "Golden Boombox",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #4757",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4757.png",
+      "attributes": {
+        "Type": "Blue",
+        "Hair": "Silver Dreadlocks",
+        "Ear": "Spiked Ring",
+        "Neck": "Golden Headphones",
+        "Clothing": "Tank Top",
+        "Eyes": "Pierced Eyebrow",
+        "Mouth": "Toothpick",
+        "Offhand": "Golden Boombox",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4761",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4761.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Long",
+        "Headgear": "Newsboy Cap",
+        "Clothing": "Rain Jacket",
+        "Eyes": "Glowing",
+        "Mouth": "420",
+        "Offhand": "Golden Bat",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #4768",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4768.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Powder Blue Disheveled",
+        "Clothing": "White T-Shirt",
+        "Eyes": "Suspicious",
+        "Mouth": "Wheat Straw",
+        "Offhand": "Golden Umbrella",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4791",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4791.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Magenta Flowy",
+        "Headgear": "Azuki Cap",
+        "Clothing": "Red Qipao with Fur",
+        "Eyes": "Red",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Bat",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4822",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4822.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Short Spiky",
+        "Special": "Fire",
+        "Clothing": "Maroon Yukata",
+        "Eyes": "Indifferent",
+        "Mouth": "Closed",
+        "Offhand": "Golden Kanabo",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #4885",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4885.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Half Bun",
+        "Special": "Fox Fire",
+        "Headgear": "Distressed Beanie",
+        "Clothing": "White Yukata",
+        "Eyes": "Suspicious",
+        "Mouth": "Smirk",
+        "Offhand": "Golden Boombox",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #4920",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4920.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Teal Bob",
+        "Special": "Lightning",
+        "Clothing": "Cat Kimono",
+        "Eyes": "Daydreaming",
+        "Mouth": "Wheat Straw",
+        "Offhand": "Golden Zanbato",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #4944",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4944.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Purple Dreadlocks",
+        "Clothing": "White Blazer",
+        "Eyes": "Careless",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Skateboard",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #4965",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/4965.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Fluffy",
+        "Headgear": "Cat Beanie",
+        "Clothing": "Matsuri Happi",
+        "Eyes": "Glowing",
+        "Mouth": "Bubble Gum",
+        "Offhand": "Golden Shinai",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #5024",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5024.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Disheveled",
+        "Clothing": "White Hoodie",
+        "Eyes": "Focused",
+        "Mouth": "Growl",
+        "Offhand": "Golden Fishing Rod",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5028",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5028.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Violet Flowy",
+        "Headgear": "Full Bandana",
+        "Ear": "Red Spiked Ring",
+        "Clothing": "Dress Shirt",
+        "Eyes": "Ruby",
+        "Mouth": "Tongue Out",
+        "Offhand": "Golden Bat",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5080",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5080.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Ombre Bangs",
+        "Clothing": "Hoshi Jacket",
+        "Eyes": "Closed",
+        "Mouth": "Laughing",
+        "Offhand": "Golden Skateboard",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5093",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5093.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Swept Back",
+        "Ear": "Chill",
+        "Face": "Bandaid",
+        "Neck": "Koi Tattoo",
+        "Clothing": "White Yukata",
+        "Eyes": "Determined",
+        "Mouth": "Meh",
+        "Offhand": "Golden Fan",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5119",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5119.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Ponytail",
+        "Headgear": "Purple Kanzashi",
+        "Ear": "Chill",
+        "Clothing": "Blue Kimono with Bow",
+        "Eyes": "Pierced Eyebrow",
+        "Mouth": "Laughing",
+        "Offhand": "Golden Kanabo",
+        "Background": "Red"
+      }
+    },
+    {
+      "name": "Azuki #5159",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5159.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Fluffy",
+        "Ear": "Red Spiked Ring",
+        "Clothing": "Blue Bomber",
+        "Eyes": "Determined",
+        "Mouth": "Closed",
+        "Offhand": "Golden Bean",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #5167",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5167.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Indigo Ponytail",
+        "Clothing": "Golden Sloth Kigurumi",
+        "Eyes": "Concerned",
+        "Mouth": "Frown",
+        "Offhand": "Banner",
+        "Background": "Off White B"
+      }
+    },
+    {
+      "name": "Azuki #5208",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5208.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Spiky",
+        "Ear": "Yin Yang",
+        "Face": "Red Fang Face Paint",
+        "Clothing": "Black Yukata",
+        "Eyes": "Suspicious",
+        "Mouth": "Not Bad",
+        "Offhand": "Golden Zanbato",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5209",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5209.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Purple Spiky",
+        "Clothing": "Red Hoodie",
+        "Eyes": "Red",
+        "Mouth": "Bubble Gum",
+        "Offhand": "Golden Umbrella",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5227",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5227.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Violet Flowy",
+        "Headgear": "Full Bandana",
+        "Clothing": "Red Panda Kimono",
+        "Eyes": "Daydreaming",
+        "Mouth": "Frown",
+        "Offhand": "Golden Floorsweeper",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5241",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5241.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Disheveled",
+        "Neck": "Golden Headphones",
+        "Clothing": "Maroon Yukata",
+        "Eyes": "Pensive",
+        "Mouth": "Scroll",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5371",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5371.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Black Swept Back",
+        "Face": "Reading Glasses",
+        "Clothing": "White T-Shirt",
+        "Eyes": "Determined",
+        "Mouth": "Not Bad",
+        "Offhand": "Golden Guitar",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #5381",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5381.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Messy",
+        "Headgear": "IKZ Baseball Cap",
+        "Ear": "Chiyogami",
+        "Face": "Round Blue Sunglasses",
+        "Clothing": "Blue Kimono",
+        "Eyes": "Focused",
+        "Mouth": "Face Mask",
+        "Offhand": "Golden Katana",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #5410",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5410.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blue Samurai",
+        "Headgear": "Horns",
+        "Ear": "Yellow Fan",
+        "Face": "Black Glasses",
+        "Clothing": "Blue Bomber",
+        "Eyes": "Determined",
+        "Mouth": "Stubble",
+        "Offhand": "Golden Kanabo",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #5437",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5437.png",
+      "attributes": {
+        "Type": "Red",
+        "Hair": "Silver Bun",
+        "Ear": "Skull Ear Cuffs",
+        "Clothing": "Tank Top with Jacket",
+        "Eyes": "Concerned",
+        "Mouth": "Grass",
+        "Offhand": "Golden Kanabo",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #5449",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5449.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Brown Messy",
+        "Face": "Reading Glasses",
+        "Neck": "Beads",
+        "Clothing": "White Yukata",
+        "Eyes": "Suspicious",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Hook Sword",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #5466",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5466.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Spiky",
+        "Headgear": "Cowboy Hat",
+        "Face": "Eye Scar",
+        "Neck": "Tribal Tattoo",
+        "Clothing": "Rain Jacket",
+        "Eyes": "Suspicious",
+        "Mouth": "Chuckle",
+        "Offhand": "Golden Guitar",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5513",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5513.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Maroon Half Bun",
+        "Special": "Butterfly",
+        "Headgear": "IKZ Baseball Cap",
+        "Face": "Blue Sunglasses",
+        "Clothing": "Black Bomber",
+        "Eyes": "Joyful",
+        "Mouth": "Whistling",
+        "Offhand": "Golden Guitar",
+        "Background": "Dark Purple"
+      }
+    },
+    {
+      "name": "Azuki #5523",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5523.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Teal Messy",
+        "Special": "Butterfly",
+        "Clothing": "Golden Frog Kigurumi",
+        "Eyes": "Suspicious",
+        "Mouth": "Long Stubble",
+        "Background": "Dark Purple"
+      }
+    },
+    {
+      "name": "Azuki #5525",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5525.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Green Spiky",
+        "Ear": "Yin Yang",
+        "Clothing": "Black Blazer",
+        "Neck": "Chain",
+        "Eyes": "Closed",
+        "Mouth": "Grass",
+        "Offhand": "Golden Umbrella",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #5539",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5539.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Teal Bangs",
+        "Face": "Round Purple Sunglasses",
+        "Clothing": "Dress Shirt",
+        "Eyes": "Concerned",
+        "Mouth": "Smoking",
+        "Offhand": "Golden Shuriken",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5558",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5558.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Goddess",
+        "Special": "Fireflies",
+        "Neck": "Contract Tattoo",
+        "Clothing": "Black Oversized Kimono",
+        "Eyes": "Joyful",
+        "Mouth": "Lipstick",
+        "Offhand": "Golden Sheathed Katana",
+        "Background": "Cool Gray"
+      }
+    },
+    {
+      "name": "Azuki #5576",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5576.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Spiky",
+        "Headgear": "Frog Headband",
+        "Ear": "Stud",
+        "Clothing": "Azuki Tech Jacket",
+        "Eyes": "Pensive",
+        "Mouth": "Smoking",
+        "Offhand": "Golden Monkey King Staff",
+        "Background": "Off White D"
+      }
+    },
+    {
+      "name": "Azuki #5589",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5589.png",
+      "attributes": {
+        "Type": "Spirit",
+        "Hair": "Spirit Bob",
+        "Clothing": "Lavender Kimono with Bow",
+        "Eyes": "Daydreaming",
+        "Mouth": "Closed",
+        "Offhand": "Golden Umbrella",
+        "Background": "Dark Blue"
+      }
+    },
+    {
+      "name": "Azuki #5604",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5604.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Water",
+        "Ear": "Small Hoop",
+        "Clothing": "Beige Poncho",
+        "Eyes": "Determined",
+        "Mouth": "Grass",
+        "Offhand": "Golden Hook Sword",
+        "Background": "Off White C"
+      }
+    },
+    {
+      "name": "Azuki #5649",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5649.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Blonde Swept Back",
+        "Clothing": "Kimono with Jacket",
+        "Eyes": "Chill",
+        "Mouth": "Relaxed",
+        "Offhand": "Golden Shuriken",
+        "Background": "Off White B"
+      }
+    },
+    {
+      "name": "Azuki #5686",
+      "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5686.png",
+      "attributes": {
+        "Type": "Human",
+        "Hair": "Silver Disheveled",
+        "Face": "Red Fang Face Paint",
+        "Clothing": "Hoodie with Bag",
+        "Eyes": "Suspicious",
+        "Mouth": "Gaiter",
+        "Offhand": "Golden Zanbato",
+        "Background": "Off White D"
+      }
+    }
+  ]
+}
