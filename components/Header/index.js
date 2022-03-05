@@ -16,9 +16,14 @@ import {
 
 function Nav() {
   const [isOpen, setIsOpen] = useState(false);
+  console.log("isOpen", isOpen);
   return (
     <div>
-      <nav className="z-10 bg-transparent absolute inset-x-0 top-0 h-16 ">
+      <nav
+        className={`z-10 bg-transparent inset-x-0 top-0 h-16 ${
+          isOpen ? "fixed bg-[#ffffffd5]" : "absolute"
+        }`}
+      >
         <div className="mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="items-end">
@@ -123,6 +128,7 @@ function Nav() {
 
         <Transition
           show={isOpen}
+          onClick={() => setIsOpen(false)}
           enter="transition ease-out duration-100 transform"
           enterFrom="opacity-0 scale-95"
           enterTo="opacity-100 scale-100"
@@ -130,9 +136,12 @@ function Nav() {
           leaveFrom="opacity-100 scale-100"
           leaveTo="opacity-0 scale-95"
         >
-          {(ref) => (
-            <div className="bg-[#ffffffd5] md:hidden" id="mobile-menu">
-              <div ref={ref} className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
+          {isOpen && (
+            <div
+              className="bg-[#ffffffd5] md:hidden h-screen fixed w-screen"
+              id="mobile-menu"
+            >
+              <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                 <Link href={"/"}>
                   <a className="hover:bg-[#cec8c8] text-[#4D4C4B] block px-5 py-5 rounded-md text-base font-medium">
                     Home

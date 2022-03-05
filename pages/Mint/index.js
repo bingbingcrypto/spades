@@ -57,7 +57,7 @@ const Mint = () => {
 
   // useEffect(() => {
   //   checkNetwork();
-    // checkIfWalletIsConnected();
+  // checkIfWalletIsConnected();
   // }, [currentAccount]);
   // const [nft, setNft] = useState({});
 
@@ -149,7 +149,7 @@ const Mint = () => {
               <h1 className="text-white font-bold text-lg pb-2">
                 Presale Mint
               </h1>
-              <p className="text-white font-extralight opacity-60 text-xs pb-5">
+              <p className="text-white font-extralight opacity-60 text-xs pb-10">
                 203 NFTs minted
               </p>
             </div>
@@ -189,19 +189,24 @@ const Mint = () => {
                 <h3 className="text-white font-bold text-right">
                   {new Intl.NumberFormat("en", {
                     maximumSignificantDigits: 3,
-                  }).format(nftNum * 1.05)}{" "}
+                  }).format(nftNum * 0.05)}{" "}
                   Eth
                 </h3>
               </div>
 
               <div className="text-center">
                 {currentAccount ? (
-                  <button
-                    onClick={(e) => askContractToMintNft(e)}
-                    className="py-3 px-8 w-100 bg-[#F0FEA9] text-black rounded-md font-bold"
-                  >
-                    Mint
-                  </button>
+                  <>
+                    <button
+                      onClick={(e) => askContractToMintNft(e)}
+                      className="py-3 px-8 w-100 bg-[#F0FEA9] text-black rounded-md font-bold"
+                    >
+                      Mint
+                    </button>
+                    <p className="pt-4 text-xs text-white opacity-70">
+                      {currentAccount.slice(0, 6)}... is not whitelisted ❌
+                    </p>
+                  </>
                 ) : (
                   <button
                     onClick={(e) => connectWalletAction(e)}
