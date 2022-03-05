@@ -1,6 +1,7 @@
 import Image from "next/image";
 import gallery from "../../public/gallery.json";
 import { useState } from "react";
+import { Switch } from "@headlessui/react";
 
 const tracks = [
   {
@@ -28,6 +29,7 @@ const tracks = [
 
 const Gallery = () => {
   const [nfts, setNfts] = useState(gallery.goldenAzukis.slice(0, 10));
+  // const [enabled, setEnabled] = useState(true);
   const [eyesFilter, setEyesFilter] = useState(false);
   const [mouthFilter, setMouthFilter] = useState(false);
   const [typeFilter, setTypeFilter] = useState(false);
@@ -38,10 +40,8 @@ const Gallery = () => {
     if (!eyesFilter) {
       const grabNfts = nfts.filter((nft) => nft.attributes.Eyes === "Pensive");
       setNfts(grabNfts);
-      setEyesFilter(true);
     } else {
       setNfts(gallery.goldenAzukis.slice(0, 10));
-      setEyesFilter(false);
     }
   };
 
@@ -94,40 +94,64 @@ const Gallery = () => {
           <h1 className="text-4xl pb-8 font-bold">Filters</h1>
           <div className="flex-col">
             <div onClick={filterEyes} className="py-2">
-              <input
-                onChange={() => {}}
-                checked={eyesFilter}
-                className="p-4"
-                type="checkbox"
-                name="Eyes"
-              />
-              <label className="p-4" htmlFor="Eyes">
-                Pensive Eyes
-              </label>
+              <Switch.Group>
+                <div className="flex justify-between items-center">
+                  <Switch.Label className="mr-4">Pensive Eyes</Switch.Label>
+                  <Switch
+                    checked={eyesFilter}
+                    onChange={setEyesFilter}
+                    className={`${
+                      eyesFilter ? "bg-blue-600" : "bg-gray-200"
+                    } relative inline-flex items-center h-6 rounded-full w-11 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500`}
+                  >
+                    <span
+                      className={`${
+                        eyesFilter ? "translate-x-6" : "translate-x-1"
+                      } inline-block w-4 h-4 transform bg-white rounded-full transition-transform`}
+                    />
+                  </Switch>
+                </div>
+              </Switch.Group>
             </div>
             <div onClick={filterMouth} className="py-2">
-              <input
-                onChange={() => {}}
-                checked={mouthFilter}
-                className="p-4"
-                type="checkbox"
-                name="Mouth"
-              />
-              <label className="p-4" htmlFor="Mouth">
-                Closed Mouth
-              </label>
+              <Switch.Group>
+                <div className="flex justify-between items-center">
+                  <Switch.Label className="mr-4">Closed Mouth</Switch.Label>
+                  <Switch
+                    checked={mouthFilter}
+                    onChange={setMouthFilter}
+                    className={`${
+                      mouthFilter ? "bg-blue-600" : "bg-gray-200"
+                    } relative inline-flex items-center h-6 rounded-full w-11 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500`}
+                  >
+                    <span
+                      className={`${
+                        mouthFilter ? "translate-x-6" : "translate-x-1"
+                      } inline-block w-4 h-4 transform bg-white rounded-full transition-transform`}
+                    />
+                  </Switch>
+                </div>
+              </Switch.Group>
             </div>
             <div onClick={filterType} className="py-2">
-              <input
-                onChange={() => {}}
-                checked={typeFilter}
-                className="p-4"
-                type="checkbox"
-                name="Type"
-              />
-              <label className="p-4" htmlFor="Type">
-                Human
-              </label>
+              <Switch.Group>
+                <div className="flex justify-between items-center">
+                  <Switch.Label className="mr-4">Human</Switch.Label>
+                  <Switch
+                    checked={typeFilter}
+                    onChange={setTypeFilter}
+                    className={`${
+                      typeFilter ? "bg-blue-600" : "bg-gray-200"
+                    } relative inline-flex items-center h-6 rounded-full w-11 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500`}
+                  >
+                    <span
+                      className={`${
+                        typeFilter ? "translate-x-6" : "translate-x-1"
+                      } inline-block w-4 h-4 transform bg-white rounded-full transition-transform`}
+                    />
+                  </Switch>
+                </div>
+              </Switch.Group>
             </div>
           </div>
         </div>
