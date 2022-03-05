@@ -2,11 +2,36 @@ import Image from "next/image";
 import gallery from "../../public/gallery.json";
 import { useState } from "react";
 
+const tracks = [
+  {
+    title: "One Night in Neo Kobe",
+    artist: "Some Dude",
+    audioSrc: "/music/One Night In Neo Kobe City.mp3",
+    image: "string",
+    color: "string",
+  },
+  {
+    title: "Beware",
+    artist: "Death Grips",
+    audioSrc: "/music/Beware.mp3",
+    image: "string",
+    color: "string",
+  },
+  {
+    title: "Culture Shock",
+    artist: "Death Grips",
+    audioSrc: "/music/CultureShock.mp3",
+    image: "string",
+    color: "string",
+  },
+];
+
 const Gallery = () => {
   const [nfts, setNfts] = useState(gallery.goldenAzukis.slice(0, 10));
   const [eyesFilter, setEyesFilter] = useState(false);
   const [mouthFilter, setMouthFilter] = useState(false);
   const [typeFilter, setTypeFilter] = useState(false);
+  const [audio, setAudio] = useState(null);
   // let grabNfts = gallery.goldenAzukis.slice(0, 10);
 
   const filterEyes = (e) => {
@@ -43,6 +68,19 @@ const Gallery = () => {
     }
   };
 
+  const playMusic = () => {
+    // const randomTrack = Math.floor(Math.random() * tracks.length);
+    const audio = new Audio(
+      tracks[Math.floor(Math.random() * tracks.length)].audioSrc
+    );
+    setAudio(audio);
+    audio.play();
+  };
+
+  const stopMusic = () => {
+    audio.pause();
+  };
+
   return (
     <div className="sm:mt-[80px] md:m-[90px] text-center">
       <div>
@@ -57,6 +95,7 @@ const Gallery = () => {
           <div className="flex-col">
             <div onClick={filterEyes} className="py-2">
               <input
+                onChange={() => {}}
                 checked={eyesFilter}
                 className="p-4"
                 type="checkbox"
@@ -68,6 +107,7 @@ const Gallery = () => {
             </div>
             <div onClick={filterMouth} className="py-2">
               <input
+                onChange={() => {}}
                 checked={mouthFilter}
                 className="p-4"
                 type="checkbox"
@@ -79,6 +119,7 @@ const Gallery = () => {
             </div>
             <div onClick={filterType} className="py-2">
               <input
+                onChange={() => {}}
                 checked={typeFilter}
                 className="p-4"
                 type="checkbox"
@@ -97,6 +138,8 @@ const Gallery = () => {
               return (
                 <div
                   key={`index-${index}`}
+                  onMouseEnter={playMusic}
+                  onMouseLeave={stopMusic}
                   className="max-w-[150px] m-5 hover:scale-110 transition duration-300 ease-out hover:ease-in-out  shadow-slate-900 shadow-2xl rounded-lg border border-gray-200 bg-gray-800 border-gray-700"
                 >
                   <Image
