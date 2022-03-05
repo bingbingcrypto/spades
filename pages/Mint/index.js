@@ -242,7 +242,7 @@ const Mint = () => {
       <div className="flex sm:flex-col-reverse md:flex-row relative justify-around ">
         {isLoading()}
         <div className="sm:mx-auto sm:mb-12">
-          <div className="max-w-[300px] bg-white shadow-slate-900 shadow-2xl rounded-lg border border-gray-200 dark:bg-gray-800 dark:border-gray-700">
+          <div className="max-w-[300px]  shadow-slate-900 shadow-2xl rounded-lg border bg-gray-800 border-gray-700">
             <Image
               className="rounded-md"
               src={"/images/pyrimadhead.jpg"}
@@ -251,10 +251,10 @@ const Mint = () => {
               width={300}
             />
             <div className="p-5">
-              <p className="mb-3 opacity-70 font-lighter text-gray-700 dark:text-gray-400">
+              <p className="mb-3 opacity-70 font-lighter  text-gray-400">
                 Spade
               </p>
-              <p className="mb-3 font-bold opacity-80 text-gray-700 dark:text-gray-400">
+              <p className="mb-3 font-bold opacity-80  text-gray-400">
                 NO. 2412
               </p>
             </div>

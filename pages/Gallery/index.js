@@ -97,7 +97,7 @@ const Gallery = () => {
               return (
                 <div
                   key={`index-${index}`}
-                  className="max-w-[150px] m-5 hover:scale-110 transition duration-300 ease-out hover:ease-in-out bg-white shadow-slate-900 shadow-2xl rounded-lg border border-gray-200 dark:bg-gray-800 dark:border-gray-700"
+                  className="max-w-[150px] m-5 hover:scale-110 transition duration-300 ease-out hover:ease-in-out  shadow-slate-900 shadow-2xl rounded-lg border border-gray-200 bg-gray-800 border-gray-700"
                 >
                   <Image
                     className="rounded-md"
@@ -107,10 +107,10 @@ const Gallery = () => {
                     width={300}
                   />
                   <div className="p-2">
-                    <p className="mb-3 opacity-70 font-lighter text-gray-700 dark:text-gray-400">
+                    <p className="mb-3 opacity-70 font-lighter text-gray-700 text-gray-400">
                       {nft.name}
                     </p>
-                    <p className="mb-3 font-bold opacity-80 text-gray-700 dark:text-gray-400">
+                    <p className="mb-3 font-bold opacity-80 text-gray-700 text-gray-400">
                       {nft.id}
                     </p>
                   </div>
