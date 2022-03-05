@@ -16,7 +16,6 @@ import {
 
 function Nav() {
   const [isOpen, setIsOpen] = useState(false);
-  console.log("isOpen", isOpen);
   return (
     <div>
       <nav
