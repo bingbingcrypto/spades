@@ -200,6 +200,7 @@ const Mint = () => {
                     <button
                       onClick={(e) => askContractToMintNft(e)}
                       className="py-3 px-8 w-100 bg-[#F0FEA9] text-black rounded-md font-bold"
+                      disabled
                     >
                       Mint
                     </button>
