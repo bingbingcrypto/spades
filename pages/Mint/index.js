@@ -187,7 +187,7 @@ const Mint = () => {
                   Total
                 </label>
                 <h3 className="text-white font-bold text-right">
-                  {new Intl.NumberFormat("en", {
+                  {new Intl.NumberFormat("en", { 
                     maximumSignificantDigits: 3,
                   }).format(nftNum * 0.05)}{" "}
                   Eth
