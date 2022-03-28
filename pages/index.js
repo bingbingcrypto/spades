@@ -18,6 +18,14 @@ export default function Home() {
       </Head>
       <main className=" bg-im">
         <div className="h-screen sm:bg-animephone md:bg-animefull bg-cover bg-center-bottom p-150 opacity-50 -z-10"></div>
+        <div className="absolute top-40 left-0 right-0 mx-auto text-center">
+          <h1 className="text-3xl ease-in-out duration-500 hover:text-white font-bold">
+            Groovy Frens
+          </h1>
+          <button className="mt-8 ease-in-out duration-500 bg-transparent hover:bg-white text-black font-semibold hover:text-black py-2 px-4 border border-black hover:border-transparent rounded text-center">
+            Connect Wallet
+          </button>
+        </div>
       </main>
     </div>
   );

@@ -4,10 +4,11 @@ import Image from "next/image";
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faTelegram,
+  faInstagram,
   faTwitter,
   faDiscord,
 } from "@fortawesome/free-brands-svg-icons";
+import whiteOpenSea from "../../public/images/whiteOpenSea.png";
 // import spades from '/images/spades.png';
 
 // const myLoader = ({ src, width, quality }) => {
@@ -42,29 +43,44 @@ function Nav() {
               </div>
             </div>
             <div className="flex items-center">
-              <div className="hidden md:block">
-                <div className="ml-10 flex items-baseline space-x-4">
+              <div className="hidden header:block">
+                <div className="ml-10 flex items-baseline space-x-3">
                   <Link href="/">
                     <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
-                      Home
+                      About
                     </a>
                   </Link>
                   <Link href="/Mint">
                     <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
-                      Mint
+                      Art Map
                     </a>
                   </Link>
 
                   <Link href="/Gallery">
                     <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+                      Team
+                    </a>
+                  </Link>
+                  <Link href="/Gallery">
+                    <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
                       Gallery
+                    </a>
+                  </Link>
+                  <Link href="/Gallery">
+                    <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+                      Shop
+                    </a>
+                  </Link>
+                  <Link href="/Gallery">
+                    <a className="hover:bg-[#cec8c8] text-[#292928] ease-in duration-300  hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+                      Minting Page
                     </a>
                   </Link>
                   <a
                     href="#"
                     className="px-3 py-2 hover:bg-[#cec8c8] rounded-md hover:text-white ease-in duration-300  relative top-[9px]"
                   >
-                    <FontAwesomeIcon className="h-8 w-8" icon={faTelegram} />
+                    <FontAwesomeIcon className="h-8 w-8" icon={faInstagram} />
                   </a>
                   <a
                     href="#"
@@ -78,10 +94,21 @@ function Nav() {
                   >
                     <FontAwesomeIcon className="h-8 w-8" icon={faDiscord} />
                   </a>
+                  <a
+                    href="#"
+                    className="px-3 py-2 hover:bg-[#cec8c8] rounded-md  hover:text-white ease-in duration-300  relative top-[9px]"
+                  >
+                    <Image
+                      src={whiteOpenSea}
+                      alt="OpenSea"
+                      height={32}
+                      width={32}
+                    />
+                  </a>
                 </div>
               </div>
             </div>
-            <div className="-mr-2 flex md:hidden">
+            <div className="-mr-2 flex header:hidden">
               <button
                 onClick={() => setIsOpen(!isOpen)}
                 type="button"
@@ -140,42 +167,68 @@ function Nav() {
         >
           {isOpen && (
             <div
-              className="bg-[#ffffffd5] md:hidden h-screen fixed w-screen"
+              className="bg-[#ffffffd5] header:hidden h-screen fixed w-screen"
               id="mobile-menu"
             >
               <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                 <Link href={"/"}>
-                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] block px-5 py-5 rounded-md text-base font-medium">
-                    Home
+                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] block px-5 py-3 rounded-md text-base font-medium">
+                    About
                   </a>
                 </Link>
-                <Link href={"/Mint"}>
-                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium">
-                    Mint
+                <Link href={"/ArtMap"}>
+                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-3 rounded-md text-base font-medium">
+                    Art Map
                   </a>
                 </Link>
                 <Link href={"/Gallery"}>
-                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium">
+                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-3 rounded-md text-base font-medium">
+                    Team
+                  </a>
+                </Link>
+                <Link href={"/Gallery"}>
+                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-3 rounded-md text-base font-medium">
                     Gallery
+                  </a>
+                </Link>
+                <Link href={"/Gallery"}>
+                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-3 rounded-md text-base font-medium">
+                    Shop
+                  </a>
+                </Link>
+                <Link href={"/Gallery"}>
+                  <a className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-3 rounded-md text-base font-medium">
+                    Minting Page
                   </a>
                 </Link>
                 <a
                   href="#"
-                  className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium"
+                  className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-3 rounded-md text-base font-medium"
                 >
-                  <FontAwesomeIcon className="h-8 w-8" icon={faTelegram} />
+                  <FontAwesomeIcon className="h-8 w-8" icon={faInstagram} />
                 </a>
                 <a
                   href="#"
-                  className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium"
+                  className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-3 rounded-md text-base font-medium"
                 >
                   <FontAwesomeIcon className="h-8 w-8" icon={faTwitter} />
                 </a>
                 <a
                   href="#"
-                  className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-5 rounded-md text-base font-medium"
+                  className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-3 rounded-md text-base font-medium"
                 >
                   <FontAwesomeIcon className="h-8 w-8" icon={faDiscord} />
+                </a>
+                <a
+                  href="#"
+                  className="hover:bg-[#cec8c8] text-[#4D4C4B] hover:text-white block  px-5 py-3 rounded-md text-base font-medium"
+                >
+                  <Image
+                    src={whiteOpenSea}
+                    alt="OpenSea"
+                    height={32}
+                    width={32}
+                  />
                 </a>
               </div>
             </div>

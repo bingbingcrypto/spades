@@ -1,6 +1,7 @@
 import Image from "next/image";
 import gallery from "../../public/gallery.json";
 import { useState } from "react";
+import ModalComponent from "../../components/ModalComponent";
 import { Switch } from "@headlessui/react";
 
 const tracks = [
@@ -34,6 +35,8 @@ const Gallery = () => {
   const [mouthFilter, setMouthFilter] = useState(false);
   const [typeFilter, setTypeFilter] = useState(false);
   const [audio, setAudio] = useState(null);
+  const [isOpen, setIsOpen] = useState(false);
+  const [activeNft, setActiveNft] = useState(null);
   // let grabNfts = gallery.goldenAzukis.slice(0, 10);
 
   const filterEyes = (e) => {
@@ -70,16 +73,22 @@ const Gallery = () => {
 
   const playMusic = () => {
     // const randomTrack = Math.floor(Math.random() * tracks.length);
-    const audio = new Audio(
-      tracks[Math.floor(Math.random() * tracks.length)].audioSrc
-    );
-    setAudio(audio);
-    audio.play();
+    // const audio = new Audio(
+    //   tracks[Math.floor(Math.random() * tracks.length)].audioSrc
+    // );
+    // setAudio(audio);
+    // audio.play();
+    console.log("hai");
   };
 
   const stopMusic = () => {
-    audio.pause();
+    // audio.pause();
+    console.log("bye");
   };
+
+  function closeModal() {
+    setIsOpen(false)
+  }
 
   return (
     <div className="sm:mt-[80px] md:m-[90px] text-center">
@@ -162,14 +171,18 @@ const Gallery = () => {
               return (
                 <div
                   key={`index-${index}`}
-                  onMouseEnter={playMusic}
-                  onMouseLeave={stopMusic}
-                  className="max-w-[150px] m-5 hover:scale-110 transition duration-300 ease-out hover:ease-in-out  shadow-slate-900 shadow-2xl rounded-lg border border-gray-200 bg-gray-800 border-gray-700"
+                  // onMouseEnter={playMusic}
+                  // onMouseLeave={stopMusic}
+                  onClick={() => {
+                    setActiveNft(nft);
+                    setIsOpen(true);
+                  }}
+                  className="max-w-[150px] m-5 hover:scale-110 transition duration-300 ease-out hover:ease-in-out cursor-pointer shadow-slate-900 shadow-2xl rounded-lg border border-gray-200 bg-gray-800 border-gray-700"
                 >
                   <Image
                     className="rounded-md"
                     src={nft.image}
-                    alt="hard at work minting that nft"
+                    alt="Azuki nft"
                     height={300}
                     width={300}
                   />
@@ -187,6 +200,9 @@ const Gallery = () => {
           </div>
         </div>
       </div>
+      {isOpen && (
+        <ModalComponent isOpen={isOpen} closeModal={closeModal} setIsOpen={setIsOpen} nft={activeNft} />
+      )}
     </div>
   );
 };
